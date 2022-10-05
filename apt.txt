@@ -1,0 +1,9 @@
+opencv-python
+numpy
+pandas
+matplotlib
+libgl1-mesa-glx
+ffmpeg
+libsm6
+libxext6
+libgl1
