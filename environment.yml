@@ -8,4 +8,5 @@ dependencies:
   - pip:
     - pandas
     - matplotlib
+    - imutils
     - opencv-python
